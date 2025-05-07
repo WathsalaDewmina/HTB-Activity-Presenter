@@ -1,9 +1,7 @@
 # HTB-Activity-Presenter
 
 <div align="center">
-  
-  ![HTB Presence Logo](screenshot.png)
-  
+    
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
   [![Discord](https://img.shields.io/badge/Discord-Rich%20Presence-7289DA?logo=discord&logoColor=white)](https://discord.com)
@@ -13,7 +11,7 @@
 
 ## 🖥️ Preview
 
-![HTB Presence in Action](screenshots/preview.png)
+![HTB Presence in Action](screenshot.png)
 
 ## ✨ Features
 
