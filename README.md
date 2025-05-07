@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![HTB Presence Logo](screenshots/banner.png)
+  ![HTB Presence Logo](screenshot.png)
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
